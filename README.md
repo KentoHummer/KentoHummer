@@ -1,3 +1,9 @@
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KentoHummer&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KentoHummer&count_private=true&show_icons=true&show_icons=true" />
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KentoHummer&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @KentoHummer
 - 👀 I’m interested in Java, Python, Typescript, Go, etc.
 - 🌱 I’m currently learning Java's OSS Library
